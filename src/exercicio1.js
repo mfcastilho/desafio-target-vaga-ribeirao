@@ -6,7 +6,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 
 const calculateFibonacciSequence = (n) => {
   if (n === 1 || n === 0) {
-    return true;
+    return `O número ${n} PERTENCE a sequência de Fibonacci!`;
   }
 
   let a = 0;
