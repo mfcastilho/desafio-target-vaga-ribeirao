@@ -19,7 +19,10 @@ const calculateFibonacciSequence = (n) => {
     b = currentSum;
   }
   
-  return currentSum === n;
+  if (currentSum !== n) {
+    return `O número ${n} NÂO PERTENCE a sequência de Fibonacci!`;;
+  }
+  return `O número ${n} PERTENCE a sequência de Fibonacci!`;
 }
 
 console.log(calculateFibonacciSequence(34));

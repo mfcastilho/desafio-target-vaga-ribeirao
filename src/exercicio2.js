@@ -27,7 +27,7 @@ const findLetterA = (word) => {
   return `Letra A foi encontrada ${count} vez(es) na palavra '${word}'`;
 }
 
-console.log(findLetterA('MAriâná'));
+console.log(findLetterA('MAriânáa'));
 
 
 module.exports = findLetterA;
