@@ -17,7 +17,7 @@ Vá até a sala das lâmpadas.
 
 Observe a lâmpada que está acesa:
 A lâmpada acesa é controlada pelo INTERRUPTOR-2 (pois foi o último a ser ligado).
-Toque nas lâmpadas apagadas:
 
+Toque nas lâmpadas apagadas:
 A lâmpada que está quente ao toque é controlada pelo INTERRUPTOR-1 (pois foi ligada por um tempo e depois desligada).
 A lâmpada que está fria ao toque é controlada pelo INTERRUPTOR-3 (pois nunca foi ligada).
