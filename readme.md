@@ -1,4 +1,4 @@
-# Estágio - Ribeirão Preto
+# Estágio Target - Ribeirão Preto
 
 ## Técnica:
 
